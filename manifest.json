@@ -5,6 +5,7 @@
   "description": "This extension changes the font style in a specific page.",
   "version": "1.0",
   "icons": {
+    "128": "icon128.png",
     "48": "icon48.png",
     "16": "icon16.png"
   },
